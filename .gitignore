@@ -1,4 +1,34 @@
-venv/
+# Python
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Models and Data (large files)
+models/dialogue_act_classifier/
+models/checkpoints/
+models/logs/
+
+# Keep config files but ignore large model files
+!models/config.json
+!models/config_sklearn.json
+!models/confusion_matrix.png
+
+# Flask
+instance/
+.webassets-cache
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+static/uploads/*
+!static/uploads/.gitkeep
