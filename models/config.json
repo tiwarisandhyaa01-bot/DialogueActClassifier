@@ -1,0 +1,81 @@
+{
+    "model_type": "Logistic Regression (sklearn)",
+    "accuracy": 0.9831932773109243,
+    "label2id": {
+        "Acknowledgment": 0,
+        "Answer": 1,
+        "Closing": 2,
+        "Complaint": 3,
+        "Greeting": 4,
+        "Question": 5,
+        "Request": 6
+    },
+    "id2label": {
+        "0": "Acknowledgment",
+        "1": "Answer",
+        "2": "Closing",
+        "3": "Complaint",
+        "4": "Greeting",
+        "5": "Question",
+        "6": "Request"
+    },
+    "num_labels": 7,
+    "training_date": "2025-12-24 01:05:55",
+    "classification_report": {
+        "Acknowledgment": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 17.0
+        },
+        "Answer": {
+            "precision": 1.0,
+            "recall": 0.8823529411764706,
+            "f1-score": 0.9375,
+            "support": 17.0
+        },
+        "Closing": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 17.0
+        },
+        "Complaint": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 17.0
+        },
+        "Greeting": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 17.0
+        },
+        "Question": {
+            "precision": 0.8947368421052632,
+            "recall": 1.0,
+            "f1-score": 0.9444444444444444,
+            "support": 17.0
+        },
+        "Request": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 17.0
+        },
+        "accuracy": 0.9831932773109243,
+        "macro avg": {
+            "precision": 0.9849624060150376,
+            "recall": 0.9831932773109244,
+            "f1-score": 0.9831349206349207,
+            "support": 119.0
+        },
+        "weighted avg": {
+            "precision": 0.9849624060150376,
+            "recall": 0.9831932773109243,
+            "f1-score": 0.9831349206349207,
+            "support": 119.0
+        }
+    }
+}

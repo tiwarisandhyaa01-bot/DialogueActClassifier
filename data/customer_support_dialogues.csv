@@ -1,0 +1,596 @@
+text,dialogue_act
+"Hi, I'm your support agent. How can I help?",Greeting
+I've been on hold for over an hour trying to reach someone.,Complaint
+"Alright, I'll try that solution.",Acknowledgment
+You can track your package using tracking number XYZ123.,Answer
+Can you please expedite the shipping on my order?,Request
+Your account has been successfully verified.,Answer
+I never authorized this subscription renewal!,Complaint
+"Noted, thank you for your assistance.",Acknowledgment
+Which payment method did you use?,Question
+Have you updated to the latest version?,Question
+Good morning. Welcome to our support center.,Greeting
+Have you tried restarting the application?,Question
+Hey I'm happy to help you with your issue.,Greeting
+Thanks for the quick response!,Acknowledgment
+I appreciate your time. Goodbye.,Closing
+"That's everything I needed, thank you!",Closing
+I need assistance setting up my new account.,Request
+Please refund my payment as soon as possible.,Request
+Your support ticket has been assigned ID #45621.,Answer
+I've been waiting for my order for 3 weeks now!,Complaint
+"Perfect, have a wonderful day!",Closing
+Can you describe the problem in more detail?,Question
+"That makes sense, thank you.",Acknowledgment
+Your support ticket has been assigned ID #45621.,Answer
+The quality of the product is very poor and not as described.,Complaint
+"Hi, I'm your support agent. How can I help",Greeting
+Thanks again for your help,Closing
+"Hello, welcome! What can I do for you today?",Greeting
+"Perfect, have a wonderful day!",Closing
+"Alright, I'll follow those steps.",Acknowledgment
+"Okay, I'll check my email for the confirmation.",Acknowledgment
+"Okay, I understand now.",Acknowledgment
+The issue was caused by a temporary server outage.,Answer
+"Alright, I'll follow those steps.",Acknowledgment
+Hello! Thanks for getting in touch with us.,Greeting
+Which product are you having trouble with?,Question
+Your account has been successfully verified.,Answer
+Thanks for the quick response!,Acknowledgment
+I still haven't received my refund after 2 months.,Complaint
+"Great, thank you for looking into this.",Acknowledgment
+We currently support payments via credit card and PayPal.,Answer
+The delivery estimate is 3-5 business days.,Answer
+Have you updated to the latest version?,Question
+Your account has been successfully verified.,Answer
+I'd like to speak with a supervisor about this matter.,Request
+"Understood, I'll wait for the update.",Acknowledgment
+Can you share a screenshot of the error?,Question
+Good afternoon! How may I assist you?,Greeting
+You have 2 remaining credits in your account.,Answer
+The password reset link has been sent to your email.,Answer
+"Perfect, have a nice day!",Closing
+Could you  check the status of my refund?,Request
+Could you please check the status of my refund?,Request
+Hi! Thank you for contacting our support team.,Greeting
+The customer service has been extremely unhelpful so far.,Complaint
+Good afternoon. How may I assist you,Greeting
+This is the third time I'm contacting support about this issue.,Complaint
+Your subscription will renew on January 15th.,Answer
+I've been on hold for over an hour trying to reach someone.,Complaint
+"Thanks, that's exactly what I needed to know.",Acknowledgment
+The quality of the product is very poor and not as described.,Complaint
+"Okay, I understand now.",Acknowledgment
+"Got it, thanks for clarifying.",Acknowledgment
+Please refund my payment as soon as possible.,Request
+I need to update my billing address.,Request
+"Hi, I'm your support agent. How can I help?",Greeting
+Is this issue happening on mobile or desktop?,Question
+We currently support payments via credit card and PayPal.,Answer
+"Noted, thank you for your assistance.",Acknowledgment
+"Thanks, I really appreciate it",Closing
+Hi there! Thanks for reaching out to us.,Greeting
+Good afternoon! How may I assist you?,Greeting
+The quality of the product is very poor and not as described.,Complaint
+"Alright, I'll try that solution.",Acknowledgment
+Hey! I'm happy to help you with your issue.,Greeting
+The quality of the product is very poor and not as described.,Complaint
+Hey! I'm happy to help you with your issue.,Greeting
+"Thanks, that's exactly what I needed to know.",Acknowledgment
+The quality of the product is very poor and not as described.,Complaint
+This is the third time I'm contacting support about this issue.,Complaint
+Could you please send me an invoice for my purchase?,Request
+Thanks again for your help,Closing
+I would like to cancel my subscription please.,Request
+Can you describe the problem in more detail?,Question
+I would like to return this product for a full refund.,Request
+"Hi, I'm your support agent. How can I help",Greeting
+I'm extremely frustrated with how long this is taking.,Complaint
+Your system deleted all my saved data without warning.,Complaint
+You have 2 remaining credits in your account.,Answer
+Which payment method did you use?,Question
+Your order total is $156.50 including taxes.,Answer
+What error message are you seeing,Question
+"Thanks, I'm all set now!",Closing
+I'm very disappointed with the service I've received.,Complaint
+I appreciate your assistance. Take care.,Closing
+I need to update my billing address.,Request
+Thanks for your help. Have a great day.,Closing
+I would like to return this product for a full refund.,Request
+The quality of the product is very poor and not as described.,Complaint
+This app is full of bugs and constantly freezes.,Complaint
+"Hi, I'm your support agent. How can I help?",Greeting
+Thank you for the information.,Acknowledgment
+"Thanks, I'm all set now",Closing
+Your website keeps crashing whenever I try to make a payment.,Complaint
+I was charged twice for the same transaction!,Complaint
+I'd like to speak with a supervisor about this matter.,Request
+Hi! Thank you for contacting our support team.,Greeting
+The refund will be processed within 5-7 business days.,Answer
+Please refund my payment as soon as possible.,Request
+The delivery was late and the package was damaged.,Complaint
+Can you kindly expedite the shipping on my order?,Request
+Could you tell me when you placed the order,Question
+"Great, thanks! That's all I needed.",Closing
+Good afternoon! How may I assist you?,Greeting
+Your order total is $156.50 including taxes.,Answer
+Thanks for resolving this so quickly,Closing
+Have you tried restarting the application,Question
+Thanks for the quick response!,Acknowledgment
+"Okay, I'll keep that in mind.",Acknowledgment
+"That's everything I needed, thank you",Closing
+"Thank you, I'm all set now!",Closing
+Thanks for resolving this so quickly!,Closing
+"Hello, welcome What can I do for you today",Greeting
+What error message are you seeing,Question
+"That makes sense, thank you.",Acknowledgment
+Your subscription will renew on January 15th.,Answer
+"Thanks, that's exactly what I needed to know.",Acknowledgment
+I appreciate your time. Goodbye.,Closing
+Hi there! Thanks for reaching out to us.,Greeting
+The delivery was late and the package was damaged.,Complaint
+Hi there! Thanks for reaching out to us.,Greeting
+The feature you requested is available in our Pro plan.,Answer
+"I see, thank you for explaining that.",Acknowledgment
+Which product are you having trouble with?,Question
+The quality of the product is very poor and not as described.,Complaint
+"Thank you, you've been very helpful!",Closing
+The customer service has been extremely unhelpful so far.,Complaint
+Which product are you having trouble with?,Question
+Thanks again for your help!,Closing
+I still haven't received my refund after 2 months.,Complaint
+I need assistance setting up my new account.,Request
+I appreciate your assistance. Take care.,Closing
+Good afternoon! How may I assist you?,Greeting
+Which payment method did you use?,Question
+"Thanks, that's exactly what I needed to know.",Acknowledgment
+I appreciate your assistance. Take care!,Closing
+Hello! Thanks for getting in touch with us.,Greeting
+Your system deleted all my saved data without warning.,Complaint
+What happens when you click the submit button,Question
+"Alright, I'll try that solution.",Acknowledgment
+I'd like to speak with a supervisor about this matter.,Request
+Good morning! Welcome to our support center.,Greeting
+"Perfect, I appreciate your help.",Acknowledgment
+The software is compatible with Windows 10 and above.,Answer
+The password reset link has been sent to your email.,Answer
+The product I received is completely different from what I ordered.,Complaint
+"Perfect, have a wonderful day!",Closing
+"Great, thank you for looking into this.",Acknowledgment
+Thanks again for your help,Closing
+I want to upgrade to the premium plan.,Request
+I want to upgrade to the premium plan.,Request
+You have 2 remaining credits in your account.,Answer
+Greetings. I'm here to assist you.,Greeting
+The quality of the product is very poor and not as described.,Complaint
+Thank you so much for your help!,Closing
+Can you describe the problem in more detail?,Question
+Which product are you having trouble with?,Question
+Hey! I'm happy to help you with your issue.,Greeting
+I never authorized this subscription renewal!,Complaint
+Thank you for the information.,Acknowledgment
+Hey! I'm happy to help you with your issue.,Greeting
+Hey. How can I help you today?,Greeting
+Please add an extra item to my existing order.,Request
+"That makes sense, thank you.",Acknowledgment
+I'd like to speak with a supervisor about this matter.,Request
+Hi! Thank you for contacting our support team.,Greeting
+Good afternoon How may I assist you?,Greeting
+"Thanks, that solved my issue. Goodbye!",Closing
+"Great service, thank you!",Closing
+"Understood, I'll wait for the update.",Acknowledgment
+You have 2 remaining credits in your account.,Answer
+Which payment method did you use?,Question
+Greetings! I'm here to assist you.,Greeting
+Can you describe the problem in more detail?,Question
+Can you share a screenshot of the error?,Question
+I need to update my billing address.,Request
+"Hi, I'm your support agent. How can I help?",Greeting
+Good afternoon! How may I assist you?,Greeting
+Your order total is $156.50 including taxes.,Answer
+Have you tried restarting the application,Question
+Hello! How can I help you today?,Greeting
+Greetings! I'm here to assist you.,Greeting
+Greetings. I'm here to assist you.,Greeting
+The delivery estimate is 3-5 business days.,Answer
+I'm extremely frustrated with how long this is taking.,Complaint
+Greetings. I'm here to assist you.,Greeting
+"Got it, thanks for clarifying.",Acknowledgment
+I'm very disappointed with the service I've received.,Complaint
+"Thanks, that solved my issue. Goodbye!",Closing
+I still haven't received my refund after 2 months.,Complaint
+I was charged twice for the same transaction!,Complaint
+Can you provide your account email address?,Question
+I'd like to speak with a supervisor about this matter.,Request
+We currently support payments via credit card and PayPal.,Answer
+Your account has been successfully verified.,Answer
+Can you kindly expedite the shipping on my order?,Request
+What happens when you click the submit button?,Question
+"Okay, I understand now.",Acknowledgment
+"Hello, welcome! What can I do for you today?",Greeting
+I need help resetting my password.,Request
+Thank you for your help! Have a great day.,Closing
+"Okay, I'll check my email for the confirmation.",Acknowledgment
+"Thanks, I really appreciate it!",Closing
+This is the third time I'm contacting support about this issue.,Complaint
+What error message are you seeing,Question
+Hi there! Thanks for reaching out to us.,Greeting
+What browser are you currently using?,Question
+Hi! Thank you for contacting our support team.,Greeting
+When did you first notice this issue?,Question
+"Thanks, that's exactly what I needed to know.",Acknowledgment
+The feature you requested is available in our Pro plan.,Answer
+Thanks again for your help!,Closing
+Can you provide your account email address,Question
+What happens when you click the submit button?,Question
+"Got it, thanks for clarifying.",Acknowledgment
+I appreciate your assistance. Take care.,Closing
+This is the third time I'm contacting support about this issue.,Complaint
+"Okay, I understand now.",Acknowledgment
+I want to upgrade to the premium plan.,Request
+"Thank you, I'm all set now!",Closing
+Please add an extra item to my existing order.,Request
+The password reset link has been sent to your email.,Answer
+Which product are you having trouble with?,Question
+Thanks for resolving this so quickly!,Closing
+"Okay, I'll check my email for the confirmation.",Acknowledgment
+Good morning! Welcome to our support center.,Greeting
+Your system deleted all my saved data without warning.,Complaint
+"Hello, welcome! What can I do for you today?",Greeting
+What is your order number,Question
+Good afternoon! How may I assist you?,Greeting
+The software is compatible with Windows 10 and above.,Answer
+I would like to return this product for a full refund.,Request
+I'm extremely frustrated with how long this is taking.,Complaint
+Your subscription will renew on January 15th.,Answer
+Is this issue happening on mobile or desktop?,Question
+I've been on hold for over an hour trying to reach someone.,Complaint
+I would like to return this product for a full refund.,Request
+I'm extremely frustrated with how long this is taking.,Complaint
+The product I received is completely different from what I ordered.,Complaint
+The product I received is completely different from what I ordered.,Complaint
+Which payment method did you use?,Question
+Please refund my payment as soon as possible.,Request
+"Perfect, I appreciate your help.",Acknowledgment
+The delivery estimate is 3-5 business days.,Answer
+"Perfect, have a nice day!",Closing
+Your support ticket has been assigned ID #45621.,Answer
+I've been waiting for my order for 3 weeks now!,Complaint
+Have you updated to the latest version?,Question
+I was charged twice for the same transaction,Complaint
+Hello! Thanks for getting in touch with us.,Greeting
+I've been on hold for over an hour trying to reach someone.,Complaint
+Can you extend my trial period by one week?,Request
+"Got it, thanks for clarifying.",Acknowledgment
+I'd like to speak with a supervisor about this matter.,Request
+Can you provide your account email address?,Question
+I still haven't received my refund after 2 months.,Complaint
+Can you please remove my account from your database,Request
+Could you tell me when you placed the order,Question
+"Perfect, have a wonderful day!",Closing
+I would like to return this product for a full refund.,Request
+"Great, thank you for looking into this.",Acknowledgment
+Can you describe the problem in more detail,Question
+Thanks again for your help.,Closing
+"Noted, thank you for your assistance.",Acknowledgment
+Hi! Thank you for contacting our support team.,Greeting
+Can you provide your account email address?,Question
+Good morning! Welcome to our support center.,Greeting
+The software is compatible with Windows 10 and above.,Answer
+"Noted, thank you for your assistance.",Acknowledgment
+I never authorized this subscription renewal!,Complaint
+Can you please remove my account from your database?,Request
+The customer service has been extremely unhelpful so far.,Complaint
+"Thanks, that's exactly what I needed to know.",Acknowledgment
+The quality of the product is very poor and not as described.,Complaint
+Could you please check the status of my refund?,Request
+Greetings. I'm here to assist you.,Greeting
+The product I received is completely different from what I ordered.,Complaint
+I need assistance setting up my new account.,Request
+"Thanks, that solved my issue. Goodbye",Closing
+"Alright, I'll follow those steps.",Acknowledgment
+Can you  remove my account from your database?,Request
+"Perfect, I appreciate your help.",Acknowledgment
+Your support ticket has been assigned ID #45621.,Answer
+Good afternoon! How may I assist you?,Greeting
+Good afternoon. How may I assist you,Greeting
+"Thanks, I really appreciate it!",Closing
+Your account has been successfully verified.,Answer
+The quality of the product is very poor and not as described.,Complaint
+Your subscription will renew on January 15th.,Answer
+Your order total is $156.50 including taxes.,Answer
+What error message are you seeing?,Question
+Can you extend my trial period by one week?,Request
+Can you share a screenshot of the error?,Question
+I'd like to speak with a supervisor about this matter.,Request
+What happens when you click the submit button,Question
+Thank you for the information.,Acknowledgment
+"Thanks, that solved my issue. Goodbye!",Closing
+Have you tried restarting the application?,Question
+Which product are you having trouble with?,Question
+The feature you requested is available in our Pro plan.,Answer
+"Okay, I'll keep that in mind.",Acknowledgment
+I'm extremely frustrated with how long this is taking.,Complaint
+"Thanks, that solved my issue. Goodbye",Closing
+I'm very disappointed with the service I've received.,Complaint
+"Hi, I'm your support agent. How can I help?",Greeting
+"Great service, thank you!",Closing
+Your system deleted all my saved data without warning.,Complaint
+I need to update my billing address.,Request
+"Noted, thank you for your assistance.",Acknowledgment
+Could you please check the status of my refund?,Request
+"Hello, welcome! What can I do for you today?",Greeting
+"Great service, thank you!",Closing
+Please add an extra item to my existing order.,Request
+I would like to return this product for a full refund.,Request
+I want to upgrade to the premium plan.,Request
+I need help resetting my password.,Request
+Greetings! I'm here to assist you.,Greeting
+Thanks again for your help!,Closing
+We currently support payments via credit card and PayPal.,Answer
+Can you please expedite the shipping on my order?,Request
+I would like to cancel my subscription please.,Request
+Hi there! Thanks for reaching out to us.,Greeting
+I would like to return this product for a full refund.,Request
+You can track your package using tracking number XYZ123.,Answer
+"Okay, I'll keep that in mind.",Acknowledgment
+Which payment method did you use?,Question
+The software is compatible with Windows 10 and above.,Answer
+"Thank you, I'm all set now!",Closing
+Hey. I'm happy to help you with your issue.,Greeting
+Hey! I'm happy to help you with your issue.,Greeting
+"Perfect, I appreciate your help.",Acknowledgment
+I would like to cancel my subscription please.,Request
+Good afternoon! How may I assist you?,Greeting
+Can you please remove my account from your database?,Request
+Can you provide your account email address?,Question
+What error message are you seeing,Question
+Your system deleted all my saved data without warning.,Complaint
+I've been on hold for over an hour trying to reach someone.,Complaint
+Thanks for the quick response!,Acknowledgment
+The quality of the product is very poor and not as described.,Complaint
+Can you provide your account email address?,Question
+The software is compatible with Windows 10 and above.,Answer
+I would like to return this product for a full refund.,Request
+Which product are you having trouble with?,Question
+I appreciate your assistance. Take care!,Closing
+Your order total is $156.50 including taxes.,Answer
+The refund will be processed within 5-7 business days.,Answer
+"Perfect, I appreciate your help.",Acknowledgment
+The product I received is completely different from what I ordered.,Complaint
+I've been waiting for my order for 3 weeks now!,Complaint
+Which payment method did you use?,Question
+Your order was shipped on December 20th.,Answer
+The delivery estimate is 3-5 business days.,Answer
+"Noted, thank you for your assistance.",Acknowledgment
+I need to update my billing address.,Request
+What is your order number?,Question
+"Hello, welcome! What can I do for you today?",Greeting
+Our premium plan costs $29.99 per month.,Answer
+Hello! Thanks for getting in touch with us.,Greeting
+I would like to cancel my subscription please.,Request
+Your system deleted all my saved data without warning.,Complaint
+The refund will be processed within 5-7 business days.,Answer
+Our premium plan costs $29.99 per month.,Answer
+I appreciate your time. Goodbye!,Closing
+"Alright, I'll try that solution.",Acknowledgment
+"Great, thank you for looking into this.",Acknowledgment
+"Perfect, have a nice day!",Closing
+"Thanks, that solved my issue. Goodbye.",Closing
+Which product are you having trouble with?,Question
+"Thanks, that's exactly what I needed to know.",Acknowledgment
+Thanks so much for your help!,Closing
+I'm extremely frustrated with how long this is taking.,Complaint
+"Hi, I'm your support agent. How can I help?",Greeting
+This is the third time I'm contacting support about this issue.,Complaint
+The refund will be processed within 5-7 business days.,Answer
+"Okay, I'll check my email for the confirmation.",Acknowledgment
+"Noted, thank you for your assistance.",Acknowledgment
+Can you please expedite the shipping on my order,Request
+Can you please remove my account from your database?,Request
+Can you provide your account email address?,Question
+Your order total is $156.50 including taxes.,Answer
+Can you share a screenshot of the error?,Question
+Is this issue happening on mobile or desktop?,Question
+When did you first notice this issue?,Question
+"Hi, I'm your support agent. How can I help?",Greeting
+Which payment method did you use?,Question
+Please add an extra item to my existing order.,Request
+I'd like to speak with a supervisor about this matter.,Request
+The quality of the product is very poor and not as described.,Complaint
+Good morning! Welcome to our support center.,Greeting
+Hello! Thanks for getting in touch with us.,Greeting
+Thank you so much for your help!,Closing
+This app is full of bugs and constantly freezes.,Complaint
+Can you describe the problem in more detail?,Question
+"Hi, I'm your support agent. How can I help?",Greeting
+The delivery estimate is 3-5 business days.,Answer
+I never authorized this subscription renewal!,Complaint
+Did you receive a confirmation email?,Question
+Your order total is $156.50 including taxes.,Answer
+Is this issue happening on mobile or desktop,Question
+Can you extend my trial period by one week?,Request
+Your system deleted all my saved data without warning.,Complaint
+Greetings! I'm here to assist you.,Greeting
+"Thank you, you've been very helpful!",Closing
+Greetings! I'm here to assist you.,Greeting
+Could you kindly check the status of my refund?,Request
+What error message are you seeing?,Question
+We currently support payments via credit card and PayPal.,Answer
+The issue was caused by a temporary server outage.,Answer
+Which product are you having trouble with,Question
+"Okay, I understand now.",Acknowledgment
+You have 2 remaining credits in your account.,Answer
+"Perfect, have a nice day!",Closing
+"I see, thank you for explaining that.",Acknowledgment
+The product I received is completely different from what I ordered.,Complaint
+Hello! Thanks for getting in touch with us.,Greeting
+"Thank you, I'm all set now!",Closing
+The delivery estimate is 3-5 business days.,Answer
+I was charged twice for the same transaction!,Complaint
+Your account has been successfully verified.,Answer
+The customer service has been extremely unhelpful so far.,Complaint
+I need assistance setting up my new account.,Request
+"That makes sense, thank you.",Acknowledgment
+"Perfect, I appreciate your help.",Acknowledgment
+I'd like to speak with a supervisor about this matter.,Request
+Can you provide your account email address?,Question
+Have you tried restarting the application?,Question
+Which payment method did you use?,Question
+I appreciate your assistance. Take care!,Closing
+Your account has been successfully verified.,Answer
+Thank you so much for your help!,Closing
+"Thanks, that solved my issue. Goodbye!",Closing
+The feature you requested is available in our Pro plan.,Answer
+The feature you requested is available in our Pro plan.,Answer
+The product I received is completely different from what I ordered.,Complaint
+I still haven't received my refund after 2 months.,Complaint
+Thanks for the information.,Acknowledgment
+Can you describe the problem in more detail?,Question
+Good morning! Welcome to our support center.,Greeting
+Hello! Thanks for getting in touch with us.,Greeting
+"Thanks, that solved my issue. Goodbye!",Closing
+Thanks for resolving this so quickly!,Closing
+Please add an extra item to my existing order.,Request
+Your account has been successfully verified.,Answer
+"Thank you, you've been very helpful!",Closing
+Our premium plan costs $29.99 per month.,Answer
+"Great, thanks! That's all I needed.",Closing
+"Noted, thank you for your assistance.",Acknowledgment
+Can you provide your account email address?,Question
+Could you please check the status of my refund,Request
+"Thanks, I really appreciate it!",Closing
+"Perfect, I appreciate your help.",Acknowledgment
+"Okay, I'll keep that in mind.",Acknowledgment
+"Hello, welcome! What can I do for you today?",Greeting
+"That's everything I needed, thank you!",Closing
+Could you tell me when you placed the order?,Question
+Good afternoon! How may I assist you?,Greeting
+I've been on hold for over an hour trying to reach someone.,Complaint
+The quality of the product is very poor and not as described.,Complaint
+"Thank you, I'm all set now!",Closing
+Hello! Thanks for getting in touch with us.,Greeting
+Your order was shipped on December 20th.,Answer
+I appreciate your time. Goodbye!,Closing
+Please add an extra item to my existing order.,Request
+I appreciate your assistance. Take care.,Closing
+Is this issue happening on mobile or desktop?,Question
+"Alright, I'll try that solution.",Acknowledgment
+Hi there! Thanks for reaching out to us.,Greeting
+I want to upgrade to the premium plan.,Request
+I never authorized this subscription renewal!,Complaint
+"Great, thank you for looking into this.",Acknowledgment
+"Great, thank you for looking into this.",Acknowledgment
+I need help resetting my password.,Request
+Is this issue happening on mobile or desktop?,Question
+I'm extremely frustrated with how long this is taking.,Complaint
+Can you extend my trial period by one week?,Request
+Can you extend my trial period by one week?,Request
+I want to upgrade to the premium plan.,Request
+The software is compatible with Windows 10 and above.,Answer
+I was charged twice for the same transaction!,Complaint
+The feature you requested is available in our Pro plan.,Answer
+"That makes sense, thank you.",Acknowledgment
+Could you kindly check the status of my refund,Request
+"Okay, I'll check my email for the confirmation.",Acknowledgment
+"Thanks, that's exactly what I needed to know.",Acknowledgment
+"Thank you, you've been very helpful!",Closing
+Can you describe the problem in more detail?,Question
+Your support ticket has been assigned ID #45621.,Answer
+I would like to cancel my subscription please.,Request
+I want to upgrade to the premium plan.,Request
+Have you updated to the latest version?,Question
+Your order total is $156.50 including taxes.,Answer
+"Perfect, have a wonderful day!",Closing
+You have 2 remaining credits in your account.,Answer
+Is this issue happening on mobile or desktop?,Question
+"That's everything I needed, thank you!",Closing
+The customer service has been extremely unhelpful so far.,Complaint
+Have you updated to the latest version?,Question
+The password reset link has been sent to your email.,Answer
+"Perfect, have a nice day!",Closing
+Hey! How can I help you today?,Greeting
+"Great, thank you for looking into this.",Acknowledgment
+I appreciate your assistance. Take care!,Closing
+I'm very disappointed with the service I've received.,Complaint
+Can you extend my trial period by one week?,Request
+Your support ticket has been assigned ID #45621.,Answer
+"Noted, thank you for your assistance.",Acknowledgment
+Thanks for resolving this so quickly,Closing
+I still haven't received my refund after 2 months.,Complaint
+The feature you requested is available in our Pro plan.,Answer
+"Hi, I'm your support agent. How can I help?",Greeting
+"Understood, I'll wait for the update.",Acknowledgment
+Is this issue happening on mobile or desktop?,Question
+"That makes sense, thank you.",Acknowledgment
+You can track your package using tracking number XYZ123.,Answer
+Greetings! I'm here to assist you.,Greeting
+"Got it, thanks for clarifying.",Acknowledgment
+Your order was shipped on December 20th.,Answer
+"That's everything I needed, thank you!",Closing
+Thank you for your help! Have a great day.,Closing
+Which product are you having trouble with?,Question
+Please add an extra item to my existing order.,Request
+I need help resetting my password.,Request
+"Thanks, that solved my issue. Goodbye!",Closing
+Thanks again for your help!,Closing
+Hey. I'm happy to help you with your issue.,Greeting
+Thank you for your help! Have a great day.,Closing
+I would like to cancel my subscription please.,Request
+What is your order number?,Question
+"Perfect, have a wonderful day!",Closing
+Thank you for the information.,Acknowledgment
+Which product are you having trouble with?,Question
+Could you  send me an invoice for my purchase,Request
+Our premium plan costs $29.99 per month.,Answer
+The issue was caused by a temporary server outage.,Answer
+We currently support payments via credit card and PayPal.,Answer
+The software is compatible with Windows 10 and above.,Answer
+"Okay, I understand now.",Acknowledgment
+Your system deleted all my saved data without warning.,Complaint
+Our premium plan costs $29.99 per month.,Answer
+What is your order number?,Question
+"Hi, I'm your support agent. How can I help?",Greeting
+Your account has been successfully verified.,Answer
+Your website keeps crashing whenever I try to make a payment.,Complaint
+Have you tried restarting the application?,Question
+Hi there Thanks for reaching out to us.,Greeting
+"Noted, thank you for your assistance.",Acknowledgment
+Which product are you having trouble with?,Question
+The quality of the product is very poor and not as described.,Complaint
+Hello! Thanks for getting in touch with us.,Greeting
+This app is full of bugs and constantly freezes.,Complaint
+Your account has been successfully verified.,Answer
+I would like to cancel my subscription please.,Request
+"Thanks, I really appreciate it!",Closing
+Thank you for the information.,Acknowledgment
+Hi! Thank you for contacting our support team.,Greeting
+"Alright, I'll try that solution.",Acknowledgment
+"Great, thanks. That's all I needed.",Closing
+I appreciate your time. Goodbye!,Closing
+Hey Thanks for getting in touch with us.,Greeting
+I'd like to speak with a supervisor about this matter.,Request
+I need assistance setting up my new account.,Request
+Can you share a screenshot of the error?,Question
+Could you please check the status of my refund,Request
+Thanks for resolving this so quickly!,Closing
+We currently support payments via credit card and PayPal.,Answer
+I need to update my billing address.,Request
+The customer service has been extremely unhelpful so far.,Complaint
+"Alright, I'll follow those steps.",Acknowledgment
+The quality of the product is very poor and not as described.,Complaint
+I need assistance setting up my new account.,Request
+What happens when you click the submit button?,Question
+Thanks again for your help,Closing
+"Hello, welcome! What can I do for you today?",Greeting
+"Thanks, I really appreciate it!",Closing
+Greetings! I'm here to assist you.,Greeting
+Greetings! I'm here to assist you.,Greeting
+Good afternoon How may I assist you?,Greeting
+The refund will be processed within 5-7 business days.,Answer
+The quality of the product is very poor and not as described.,Complaint
+What is your order number?,Question
+Thank you so much for your help!,Closing
+Our premium plan costs $29.99 per month.,Answer
+"Perfect, I appreciate your help.",Acknowledgment
+"Okay, I'll check my email for the confirmation.",Acknowledgment
