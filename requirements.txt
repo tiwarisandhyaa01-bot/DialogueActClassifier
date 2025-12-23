@@ -1,5 +1,5 @@
-app.py
-requirements.txt
-templates/
-static/
-.gitignore
+flask
+scikit-learn
+numpy
+pandas
+joblib
